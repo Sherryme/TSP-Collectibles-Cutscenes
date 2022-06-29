@@ -1,5 +1,8 @@
 *{margin: 0;padding: 0;}
 .h1,.h2,.h3,h1,h2,h3{font-family:"Segoe UI",Arial,sans-serif;font-weight:700}
+body{
+    overflow: hidden;
+}
 .mainbg{
     -moz-animation:hScroll 7s infinite linear;
     -ms-animation:hScroll 7s infinite linear;
